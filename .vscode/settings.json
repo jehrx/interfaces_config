@@ -1,0 +1,15 @@
+{
+    "php.executablePath": "c:/php/php.exe",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "args": [
+                "-ExecutionPolicy",
+                "Bypass"
+            ]
+        }
+   },
+   "terminal.integrated.defaultProfile.windows": "PowerShell"
+    
+}
